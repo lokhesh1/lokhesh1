@@ -15,39 +15,18 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lokhesh1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokhesh1&layout=compact)
-
 ## 🏆 GitHub Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=lokhesh1)
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokhesh1)
 
 ## 🤝 Open Source Contributions
 
-### Organizations & Projects
-
-- Contributing to Awesome Open Set Recognition List
-- Open-source research repositories
-- Speech AI and BCI projects
-
-## 🚀 Featured Projects
-
-- Dysarthric Speech Recognition
-- EEG Foundation Models
-- Open Set Recognition
-- Neural Speech Decoding
-- Change Detection using Mahalanobis Networks
-
 ## 📚 Publications
 
-- International Winter Conference on Brain Computer Interface (BCI 2026)
-- ICONAT 2025
+- [14 th International Winter Conference on Brain Computer Interface (BCI 2026)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11435101)
+- [ICONAT 2025](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11362627)
 
 ## 🌐 Connect
 
-- LinkedIn
-- Google Scholar
-- Email
+- [LinkedIn](https://www.linkedin.com/in/lokhesh-i-l/)
+- [Google Scholar](https://scholar.google.com/citations?user=BNM6rHUAAAAJ&hl=en)
+- [Email](lokheshmahesh0@gmail.com)
