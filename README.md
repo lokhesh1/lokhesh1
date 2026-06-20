@@ -10,13 +10,11 @@
 - Applied AI
 
 ## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=lokhesh1)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokhesh1&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lokhesh1)
-
 ## 🏆 GitHub Achievements
-
 
 ## 🤝 Open Source Contributions
 
