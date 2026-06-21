@@ -11,7 +11,7 @@
 - Foundation Models
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=lokhesh1)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lokhesh1&theme=onedark&border_radius=10&card_width=1000)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokhesh1&show_icons=true)
 
