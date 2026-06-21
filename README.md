@@ -3,11 +3,12 @@
 🎓 B.Tech Information Technology @ St. Joseph's Institute of Technology
 
 🔬 Research Interests
+
+- Applied AI
 - Brain-Computer Interfaces (BCI)
 - Speech Processing
+- GeoSpatial AI
 - Foundation Models
-- Open-set Recognition
-- Applied AI
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=lokhesh1)
