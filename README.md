@@ -15,8 +15,6 @@
 
 ## 🏆 GitHub Achievements
 
-## 🤝 Open Source Contributions
-
 ## 📚 Publications
 
 - [14 th International Winter Conference on Brain Computer Interface (BCI 2026)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11435101)
